@@ -1,1 +1,1 @@
-## Experiment-02 - Hibernate project by using MySql.
+## Experiment-03 - Working with HQL - Sorting, Pagination & Aggregates.
