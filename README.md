@@ -1,1 +1,1 @@
-## Experiment-06 - Spring MVC Web Request Handling Demo.
+## Experiment-08 - Spring Boot – JPQL & Query Methods Module
