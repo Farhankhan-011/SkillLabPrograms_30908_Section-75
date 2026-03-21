@@ -1,1 +1,1 @@
-## Experiment-07 - React API Java program.
+## Experiment-02 - Hibernate project by using MySql.
